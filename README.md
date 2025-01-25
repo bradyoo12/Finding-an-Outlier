@@ -1,4 +1,5 @@
 # Relevant tools, techniques and frameworks
+- Isolation forest
 - PyTorch
 - Z-Score 
 - Google colab
